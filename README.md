@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Myles (he/him). I write primarily in C#, and 
+
+Some of my recent projects:
+* *TicketSystem* - a test project simulating parts management for field engineers
 
 <!--
 **MylesFTOP/MylesFTOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 -->
