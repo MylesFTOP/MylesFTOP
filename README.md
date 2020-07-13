@@ -1,9 +1,11 @@
 ### Hi there! 👋
 
-I'm Myles (he/him). I write primarily in C#, and 
+I'm Myles (he/him). I write primarily in C#, and am currently working on several projects to help me develop my skills.
 
 Some of my recent projects:
-* *TicketSystem* - a test project simulating parts management for field engineers
+- **TicketSystem**   - a test project simulating parts and task management for field engineers.
+- **PlayersToolkitFor13thAge** - a project to develop a character sheet manager and general players' toolkit for 13th Age.
+- **LuhnCheck** - a small programme to check input strings using the Luhn algorithm.
 
 <!--
 **MylesFTOP/MylesFTOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
