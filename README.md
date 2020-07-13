@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Myles (he/him). I write primarily in C#, and am currently working on several projects to help me develop my skills.
+I'm Myles (he/him). I write primarily in C# (with xUnit helping make sure I don't break what I've made), and am currently working on several projects to help me develop my skills.
 
 Some of my recent projects:
 - **TicketSystem**   - a test project simulating parts and task management for field engineers.
