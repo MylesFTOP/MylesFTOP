@@ -4,7 +4,7 @@ I'm Myles (he/him). I write primarily in C# (with xUnit helping make sure I don'
 
 Some of my recent projects:
 - **TicketSystem**   - a test project simulating parts and task management for field engineers.
-- **PlayersToolkitFor13thAge** - a project to develop a character sheet manager and general players' toolkit for 13th Age.
+- **PlayersToolkitFor13thAge** - a project to develop a character sheet manager and general players' toolkit for the tabletop RPG _13th Age_.
 - **LuhnCheck** - a small programme to check input strings using the Luhn algorithm.
 
 <!--
