@@ -14,6 +14,8 @@ Some of my recent projects:
 | LuhnCheck                | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/LuhnCheck/.NET%20Core)                | [![codecov](https://codecov.io/gh/MylesFTOP/LuhnCheck/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/LuhnCheck)                                |
 | PlayersToolkitFor13thAge | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/PlayersToolkitFor13thAge/.NET%20Core) | [![codecov](https://codecov.io/gh/MylesFTOP/PlayersToolkitFor13thAge/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/PlayersToolkitFor13thAge)  |
 
+N.B. Above code coverage metrics do not include UI logic for respective projects.
+
 <!--
 **MylesFTOP/MylesFTOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
