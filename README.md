@@ -7,6 +7,13 @@ Some of my recent projects:
 * **PlayersToolkitFor13thAge** - a project to develop a character sheet manager and general players' toolkit for the tabletop RPG _13th Age_. Written using .NET Framework 4.7.2, initially using WinForms for a desktop implementation.
 * **LuhnCheck** - a small programme to check input strings using the Luhn algorithm. Written using .NET Framework 4.7.2, looking to port it to .NET Core 3.1.
 
+### Repo statuses
+| Project                  | Build status             | Coverage                 |
+|--------------------------|--------------------------|--------------------------|
+| TicketSystem             | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/TicketSystem/.NET%20Core)             | [![codecov](https://codecov.io/gh/MylesFTOP/TicketSystem/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/TicketSystem)                          |
+| LuhnCheck                | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/LuhnCheck/.NET%20Core)                | [![codecov](https://codecov.io/gh/MylesFTOP/LuhnCheck/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/LuhnCheck)                                |
+| PlayersToolkitFor13thAge | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/PlayersToolkitFor13thAge/.NET%20Core) | [![codecov](https://codecov.io/gh/MylesFTOP/PlayersToolkitFor13thAge/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/PlayersToolkitFor13thAge)  |
+
 <!--
 **MylesFTOP/MylesFTOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
