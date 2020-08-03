@@ -4,7 +4,7 @@ I'm Myles (he/him). I write primarily in C# (with xUnit and Coverlet/[Codecov](h
 
 Some of my recent projects:
 * **TicketSystem** - a test project simulating parts and task management for field engineers. Written using .NET Core 3.1.
-* **PlayersToolkitFor13thAge** - a project to develop a character sheet manager and general players' toolkit for the tabletop RPG _13th Age_. Written using .NET Framework 4.7.2, initially using WinForms for a desktop implementation.
+* **PlayersToolkitFor13thAge** - a project to develop a character sheet manager and general players' toolkit for the tabletop RPG _13th Age_. Written using .NET Framework 4.7.2, initially using WinForms for a desktop implementation, with [Tim Corey's C# course](https://youtu.be/wfWxdh-_k_4) as a framework for the initial design of the desktop application.
 * **LuhnCheck** - a small programme to check input strings using the Luhn algorithm. Written using .NET Framework 4.7.2, looking to port it to .NET Core 3.1.
 
 ### Repo statuses
