@@ -10,9 +10,9 @@ Some of my recent projects:
 ### Repo statuses
 | Project                  | Build status             | Coverage                 |
 |--------------------------|--------------------------|--------------------------|
-| TicketSystem             | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/TicketSystem/.NET%20Core)             | [![codecov](https://codecov.io/gh/MylesFTOP/TicketSystem/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/TicketSystem)                          |
-| LuhnCheck                | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/LuhnCheck/.NET%20Core)                | [![codecov](https://codecov.io/gh/MylesFTOP/LuhnCheck/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/LuhnCheck)                                |
-| PlayersToolkitFor13thAge | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/PlayersToolkitFor13thAge/.NET%20Core) | [![codecov](https://codecov.io/gh/MylesFTOP/PlayersToolkitFor13thAge/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/PlayersToolkitFor13thAge)  |
+| [TicketSystem](https://github.com/MylesFTOP/TicketSystem)                        | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/TicketSystem/.NET%20Core)             | [![codecov](https://codecov.io/gh/MylesFTOP/TicketSystem/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/TicketSystem)                         |
+| [LuhnCheck](https://github.com/MylesFTOP/LuhnCheck)                              | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/LuhnCheck/.NET%20Core)                | [![codecov](https://codecov.io/gh/MylesFTOP/LuhnCheck/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/LuhnCheck)                                |
+| [PlayersToolkitFor13thAge](https://github.com/MylesFTOP/PlayersToolkitFor13thAge) | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MylesFTOP/PlayersToolkitFor13thAge/.NET%20Core) | [![codecov](https://codecov.io/gh/MylesFTOP/PlayersToolkitFor13thAge/branch/master/graph/badge.svg)](https://codecov.io/gh/MylesFTOP/PlayersToolkitFor13thAge)  |
 
 N.B. Above code coverage metrics do not include UI logic for respective projects.
 
